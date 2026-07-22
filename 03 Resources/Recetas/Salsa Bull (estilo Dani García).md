@@ -3,7 +3,7 @@ type: receta
 tags:
   - receta
   - salsa
-fuente: https://cooking.guru/share/DbDeIwfoHDM
+fuente: https://www.instagram.com/reel/DbDeIwfoHDM
 autor: SOUL COFFEE BEER | Hamburguesería Valencia
 racion: 1 bote
 tiempo: 5
@@ -39,5 +39,6 @@ Salsa cremosa tipo americana para hamburguesas, perfecta y sin cocción. Se prep
 - Rinde aproximadamente 1 bote pequeño.
 
 ## 🔗 Fuente
-- Convertida desde un Reel de Instagram vía [CookingGuru](https://cooking.guru/share/DbDeIwfoHDM)
+- Reel original de Instagram: https://www.instagram.com/reel/DbDeIwfoHDM
+- Convertida vía [CookingGuru](https://cooking.guru/share/DbDeIwfoHDM)
 - Autor original: SOUL COFFEE BEER | Hamburguesería (Valencia)

@@ -1,16 +1,16 @@
 ---
-title: {{title}}
-created: {{date:YYYY-MM-DD}}
+title: <% tp.file.title %>
+created: <% tp.date.now("YYYY-MM-DD") %>
 tags: []
 ---
 
-# {{title}}
+# <% tp.file.title %>
 
 ## Resumen
--
+- 
 
 ## Contenido
--
+- 
 
 ## Referencias
--
+- 

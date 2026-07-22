@@ -1,0 +1,10 @@
+# Obsidian workspace & cache (ruido local, cambia constantemente)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+
+# Papelera de Obsidian
+.trash/
+
+# macOS
+.DS_Store
